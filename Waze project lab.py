@@ -47,7 +47,7 @@ null_df.describe()
 
 
 # Isolating rows without null values
-not_null_df = df[df['label'].isnull()]
+not_null_df = df[df['label'].notnull()]
 
 
 # Displaying summary stats of rows without null values
