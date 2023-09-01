@@ -1,5 +1,9 @@
-# Waze_Project
+# WazeProject
 This project is part of Google Analytics Certification
 
-Overview:
-The project aims to increase overall growth by reducing monthly churn rate among Waze app users. The goal is to determine the number of users who uninstall or stop using the app and identify the reasons behind their decision.
+## Overview:
+Waze's free navigation app makes it easier for drivers worldwide to get to where they want to go. Waze's community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. Waze partners with cities, transportation authorities, broadcasters, businesses, and first responders to help travel more efficiently and safely.
+
+This project aims to reduce the number of users who stop using or uninstall the Waze app, known as churn. Specifically, the focus is on monthly user churn. While Waze primarily focuses on increasing overall growth, improving retention rates can indicate satisfied users who continue to use the app. 
+
+Therefore, this project aims to create a prediction model to prevent churn, improve retention, and ultimately benefit the Waze business.
